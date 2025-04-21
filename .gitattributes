@@ -1,1 +1,2 @@
+*.hlsl linguist-detectable=true
 *.hlsl linguist-language=HLSL
